@@ -2,7 +2,7 @@
 
 A simple static clone of the Amazon homepage built using HTML5 and CSS3. This project is focused on recreating the core layout and visual appearance of Amazon, mimicking its user interface without any interactivity or backend functionality.
 
-> 🚀 [Live Demo]()  
+> 🚀 [Live Demo](https://amazon-clone-bhuvan.vercel.app/)  
 
 ---
 
